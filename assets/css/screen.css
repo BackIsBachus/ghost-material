@@ -132,6 +132,7 @@ strong, b {
   text-overflow: ellipsis;
   white-space: nowrap;
   max-width: 80%;
+  margin-right: 5px;
 }
 .navbar--spacer {
   flex-grow: 1;
