@@ -2,6 +2,11 @@
 
 Originally from [nauzethc](https://github.com/nauzethc/ghost-material) to adapt it to my needs. Unless otherwise spacified the rest of the README is from the original author.
 
+# Modifications
+## Disqus
+
+Discus comments have been added, the only parameter to change is located in `post.hbs`. You need to change `myblog` in the line `s.src = '//myblog.disqus.com/embed.js'` under the `{{! Comment }}` section by you blog shortname.
+
 # Ghost Material
 
 Material Design inspired theme for Ghost blogging platform. Visit my [blog](http://www.nauzethdez.com/) for a demo.
