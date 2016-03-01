@@ -8,19 +8,19 @@ body {
   background-color: #E4E7EA;
 }
 a {
-  color: #ffb300;
+  color: #e040fb;
 }
 a:hover {
-  color: #00897b;
+  color: #388e3c;
 }
 .bg-image.no-image {
-  background-color: #26a69a;
+  background-color: #4caf50;
 }
 
 /* --- Navbar --------------------------------------------------------------- */
 
 .navbar {
-  background-color: #26a69a;
+  background-color: #4caf50;
   color: white;
 }
 .navbar a {
@@ -38,7 +38,7 @@ a:hover {
   color: white;
 }
 .header .navbar.fixed.autohide.show {
-  background-color: #26a69a;
+  background-color: #4caf50;
 }
 .header--subtitle {
   color: #ddd;
@@ -92,14 +92,14 @@ a:hover {
   background-color: rgba(0,0,0,.05);
 }
 .author--media {
-  background-color: #26a69a;
+  background-color: #4caf50;
 }
 
 /* --- FABs ----------------------------------------------------------------- */
 
 .fab {
   color: white;
-  background-color: #ffb300;
+  background-color: #e040fb;
 }
 .fab:hover {
   color: white;
@@ -109,7 +109,7 @@ a:hover {
 
 .button.solid {
   color: white;
-  background-color: #ffb300;
+  background-color: #e040fb;
 }
 
 /* --- Waves ---------------------------------------------------------------- */
@@ -121,7 +121,7 @@ a:hover {
 /* --- Footer --------------------------------------------------------------- */
 
 .footer {
-  background-color: #00897b;
+  background-color: #388e3c;
 }
 .footer a {
   color: #B2DFDB;
@@ -130,13 +130,13 @@ a:hover {
   color: #FFFFFF;
 }
 .footer--top {
-  color: #80cbc4;
+  color: #c8e6c9;
 }
 .footer--bottom a {
   color: #004d40;
 }
 .footer--bottom a:hover {
-  color: #80cbc4;
+  color: #c8e6c9;
 }
 .footer--bottom {
   color: #004d40 ;
