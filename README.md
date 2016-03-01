@@ -7,6 +7,11 @@ Originally from [nauzethc](https://github.com/nauzethc/ghost-material) to adapt 
 
 Discus comments have been added, the only parameter to change is located in `post.hbs`. You need to change `myblog` in the line `s.src = '//myblog.disqus.com/embed.js'` under the `{{! Comment }}` section by you blog shortname.
 
+## Menu instead of social profiles
+
+I replaced the social links for menu links to particular tags or pages, just change the icon (from [Material Design Icons](https://materialdesignicons.com/)), the menu name and the link at the top of `index.hbs`.
+Same goes for `partials/author.hbs`.
+
 # Ghost Material
 
 Material Design inspired theme for Ghost blogging platform. Visit my [blog](http://www.nauzethdez.com/) for a demo.
