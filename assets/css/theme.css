@@ -8,7 +8,7 @@ body {
   background-color: #E4E7EA;
 }
 a {
-  color: #e040fb;
+  color: #7c4dff;
 }
 a:hover {
   color: #388e3c;
@@ -99,7 +99,7 @@ a:hover {
 
 .fab {
   color: white;
-  background-color: #e040fb;
+  background-color: #7c4dff;
 }
 .fab:hover {
   color: white;
@@ -109,7 +109,7 @@ a:hover {
 
 .button.solid {
   color: white;
-  background-color: #e040fb;
+  background-color: #7c4dff;
 }
 
 /* --- Waves ---------------------------------------------------------------- */
