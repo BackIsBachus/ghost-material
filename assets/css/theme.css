@@ -8,7 +8,7 @@ body {
   background-color: #E4E7EA;
 }
 a {
-  color: #7c4dff;
+  color: #e040fb;
 }
 a:hover {
   color: #388e3c;
@@ -99,7 +99,7 @@ a:hover {
 
 .fab {
   color: white;
-  background-color: #7c4dff;
+  background-color: #e040fb;
 }
 .fab:hover {
   color: white;
@@ -109,7 +109,7 @@ a:hover {
 
 .button.solid {
   color: white;
-  background-color: #7c4dff;
+  background-color: #e040fb;
 }
 
 /* --- Waves ---------------------------------------------------------------- */
@@ -140,4 +140,10 @@ a:hover {
 }
 .footer--bottom {
   color: #004d40 ;
+}
+
+/* --- Menu button ---------------------------------------------------------- */
+.menu-icon {
+    background-color: #e040fb !important;
+    color: white;
 }
