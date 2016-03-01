@@ -1003,6 +1003,10 @@ strong, b {
     background-color: black !important;
     color: white;
 }
+.tumblr {
+    background-color: #2C4762 !important;
+    color: white;
+}
 
 /* -------------------------------------------------------------------------- *
  * Animations defaults
