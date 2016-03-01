@@ -1,3 +1,7 @@
+# Source
+
+Originally from [nauzethc](https://github.com/nauzethc/ghost-material) to adapt it to my needs. Unless otherwise spacified the rest of the README is from the original author.
+
 # Ghost Material
 
 Material Design inspired theme for Ghost blogging platform. Visit my [blog](http://www.nauzethdez.com/) for a demo.
