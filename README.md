@@ -1,6 +1,6 @@
 # Source
 
-Originally from [nauzethc](https://github.com/nauzethc/ghost-material) to adapt it to my needs. Unless otherwise spacified the rest of the README is from the original author.
+Originally from [nauzethc](https://github.com/nauzethc/ghost-material) to adapt it to my needs. Unless otherwise spacified the rest of the README (except the `Modifications` paragraph) is from the original author.
 
 # Modifications
 ## Disqus
@@ -9,8 +9,12 @@ Discus comments have been added, the only parameter to change is located in `pos
 
 ## Menu instead of social profiles
 
-I replaced the social links for menu links to particular tags or pages, just change the icon (from [Material Design Icons](https://materialdesignicons.com/)), the menu name and the link at the top of `index.hbs`.
+Replaced the social links for menu links to particular tags or pages, just change the icon (from [Material Design Icons](https://materialdesignicons.com/)), the menu name and the link at the top of `index.hbs`.
 Same goes for `partials/author.hbs`.
+
+## Added Tumblr share button on the article pages
+
+Used the Tumblr icon from Material Design Icons and the default link form to share a blog post on Tumblr.
 
 # Ghost Material
 
