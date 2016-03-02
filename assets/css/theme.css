@@ -69,6 +69,12 @@ a:hover {
 .post--tags a:hover {
   background-color: rgba(127,127,127,0.3);
 }
+.post--title a{
+    color: white !important;
+}
+.post--title a:hover {
+    color: #c8e6c9 !important;
+}
 
 /* --- Cards ---------------------------------------------------------------- */
 
